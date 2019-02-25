@@ -1,0 +1,19 @@
+{
+  "Work orders": {
+    "workOrder1": [
+      { "articleNumber": "1", "productName": "Mjölk", "pickUp": "L1H1", "dropOff": "M1", "amount": "2", "status": "Klar" },
+      { "articleNumber": "2", "productName": "Ägg", "pickUp": "L2H1", "dropOff": "M2", "amount": "3", "status": "Pågående" },
+      { "articleNumber": "3", "productName": "Mjöl", "pickUp": "L3H4", "dropOff": "M3", "amount": "1", "status": "Ej påbörjad" }
+    ],
+    "workOrder2": [
+      { "articleNumber": "4", "productName": "Mjöl", "pickUp": "L3H4", "dropOff": "M3", "amount": "2", "status": "Klar" },
+      { "articleNumber": "5", "productName": "Mjölk", "pickUp": "L1H1", "dropOff": "M1", "amount": "3", "status": "Klar" },
+      { "articleNumber": "6", "productName": "Ägg", "pickUp": "L2H1", "dropOff": "M2", "amount": "1", "status": "Klar" }
+    ],
+    "workOrder3": [
+      { "articleNumber": "7", "productName": "Pannkakor", "pickUp": "M1", "dropOff": "Exit", "amount": "2", "status": "Klar" },
+      { "articleNumber": "8", "productName": "Våfflor", "pickUp": "M2", "dropOff": "Exit", "amount": "3", "status": "Ej påbörjad" },
+      { "articleNumber": "9", "productName": "Fläskpannkaka(utan fläsk)", "pickUp": "M3", "dropOff": "Exit", "amount": "1", "status": "Ej påbörjad" }
+    ]
+  }
+}
