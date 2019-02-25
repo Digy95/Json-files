@@ -1,5 +1,5 @@
 {
-  "title": "Work orders 123" {
+  "title": "Work orders" {
     "workOrder1": [
       { "articleNumber": "1", "productName": "Mjölk", "pickUp": "L1H1", "dropOff": "M1", "amount": "2", "status": "Klar" },
       { "articleNumber": "2", "productName": "Ägg", "pickUp": "L2H1", "dropOff": "M2", "amount": "3", "status": "Pågående" },
@@ -22,5 +22,3 @@
     ]
   }
 }
-
-Hallå
