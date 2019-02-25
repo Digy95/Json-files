@@ -14,11 +14,6 @@
       { "articleNumber": "7", "productName": "Pannkakor", "pickUp": "M1", "dropOff": "Exit", "amount": "2", "status": "Klar" },
       { "articleNumber": "8", "productName": "Våfflor", "pickUp": "M2", "dropOff": "Exit", "amount": "3", "status": "Ej påbörjad" },
       { "articleNumber": "9", "productName": "Fläskpannkaka(utan fläsk)", "pickUp": "M3", "dropOff": "Exit", "amount": "1", "status": "Ej påbörjad" }
-    ],
-    "workOrder4": [
-      { "articleNumber": "10", "productName": "Våfflor", "pickUp": "M2", "dropOff": "Exit", "amount": "2", "status": "Pågående" },
-      { "articleNumber": "11", "productName": "Pannkaka", "pickUp": "M1", "dropOff": "Exit", "amount": "3", "status": "Ej påbörjad" },
-      { "articleNumber": "12", "productName": "Fläskpannkaka(utan fläsk)", "pickUp": "M3", "dropOff": "Exit", "amount": "1", "status": "Ej påbörjad" }
     ]
   }
 }
